@@ -1,3 +1,2 @@
-<?php
-echo "This is about us page."
-?>
+<h1>About Us page</h1>
+<p>Lorem ipsum</p>
